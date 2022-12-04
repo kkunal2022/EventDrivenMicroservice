@@ -207,4 +207,7 @@ modules.xml
 
 # Azure Toolkit for IntelliJ plugin
 .idea/**/azureSettings.xml
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1a54097 (Updating .gitignore)
